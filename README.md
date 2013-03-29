@@ -2,6 +2,8 @@
 
 Parse CSV (Comma Separated Values) to Javascript arrays or dictionaries
 
+_**Note: The JQuery-CSV.js file has been slightly modified from the official released version. This was to add in a 'headerIndex' option to the toObjects(..) method.**_
+
 ## Requirements
 
 * npm
