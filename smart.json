@@ -1,0 +1,9 @@
+{
+  "name": "jquery-csv",
+  "description": "Parse CSV (Comma Separated Values) to Javascript arrays or dictionaries",
+  "homepage": "https://github.com/donskifarrell/meteor-jquery-csv",
+  "author": "Donal Farrell <http://www.donalfarrell.com/>",
+  "version": "0.7.0",
+  "git": "https://github.com/donskifarrell/meteor-jquery-csv.git",
+  "packages": {}
+}
