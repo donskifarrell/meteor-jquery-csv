@@ -1,8 +1,6 @@
 {
   "name": "jquery-csv",
-  "description": "Parse CSV (Comma Separated Values) to Javascript arrays or dictionaries.
-  
-  Note: The JQuery-CSV.js file has been slightly modified from the official released version. This was to add in a 'headerIndex' option to the toObjects(..) method.",
+  "description": "Parse CSV (Comma Separated Values) to Javascript arrays or dictionaries. Note: The JQuery-CSV.js file has been slightly modified from the official released version. This was to add in a headerIndex option to the toObjects(..) method.",
   "homepage": "https://github.com/donskifarrell/meteor-jquery-csv",
   "author": "Donal Farrell <http://www.donalfarrell.com/>",
   "version": "0.7.1",
