@@ -11,9 +11,9 @@ _**Note: The JQuery-CSV.js file has been slightly modified from the official rel
 
 ## How do I install this?
 
-1. Install Meteorite `npm install -g meteorite`
-2. Create Your project `mrt create mynewapp`
-3. Add chartjs `mrt add jquery-csv`
+1. Install Meteorite: `npm install -g meteorite`
+2. Create your project: `mrt create mynewapp`
+3. Add jquery-csv: `mrt add jquery-csv`
 
 
 ## References
