@@ -6,18 +6,18 @@ _**Note: The JQuery-CSV.js file has been slightly modified from the official rel
 
 ## Scope
 
-I am using this library for client side parsing of CSV files. If you are looking for server-side parsing, more complete NPM solutions can be found [here](https://npmjs.org/search?q=csv)
+I am using this library for client side parsing of CSV files. If you are looking for server-side parsing, more complete NPM solutions can be found [here](https://npmjs.org/search?q=csv).
 
 ## Syntax (taken from the JQuery CSV page)
 
 ### Importing
-**Client-Side:** (ie browser) - import via the script element.
+**Client-Side:** (ie. browser) - import via the script element.
 
 ```
 <script src="jquery-csv.js"></ script>
 ```
 
-**Server-Side:** (ie Node.js) - Import via the standard CommonJS approach.
+**Server-Side:** (ie. Node.js) - Import via the standard CommonJS approach.
 ```
 var $ = jQuery = require('jquery');
 require('./jquery.csv.js');
@@ -25,7 +25,8 @@ require('./jquery.csv.js');
 
 ### Usage
 
-A basic usage example can be found [here](http://jquery-csv.googlecode.com/git/examples/basic-usage.html)
+A basic usage example can be found [here](http://jquery-csv.googlecode.com/git/examples/basic-usage.html).
+
 Each one of the JQuery-CSV methods can be called with the following form:
 
 ```
